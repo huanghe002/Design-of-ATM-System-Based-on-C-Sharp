@@ -1,0 +1,193 @@
+C:\Users\huanghe002\source\repos\银行系统\银行系统\obj\Debug\net6.0-windows\银行系统.csproj.AssemblyReference.cache
+C:\Users\huanghe002\source\repos\银行系统\银行系统\obj\Debug\net6.0-windows\银行系统.Properties.Resources.resources
+C:\Users\huanghe002\source\repos\银行系统\银行系统\obj\Debug\net6.0-windows\银行系统.csproj.GenerateResource.cache
+C:\Users\huanghe002\source\repos\银行系统\银行系统\obj\Debug\net6.0-windows\银行系统.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huanghe002\source\repos\银行系统\银行系统\obj\Debug\net6.0-windows\银行系统.AssemblyInfoInputs.cache
+C:\Users\huanghe002\source\repos\银行系统\银行系统\obj\Debug\net6.0-windows\银行系统.AssemblyInfo.cs
+C:\Users\huanghe002\source\repos\银行系统\银行系统\obj\Debug\net6.0-windows\银行系统.csproj.CoreCompileInputs.cache
+C:\Users\huanghe002\source\repos\银行系统\银行系统\obj\Debug\net6.0-windows\银行系统.main1.resources
+C:\Users\huanghe002\source\repos\银行系统\银行系统\bin\Debug\net6.0-windows\银行系统.exe
+C:\Users\huanghe002\source\repos\银行系统\银行系统\bin\Debug\net6.0-windows\银行系统.deps.json
+C:\Users\huanghe002\source\repos\银行系统\银行系统\bin\Debug\net6.0-windows\银行系统.runtimeconfig.json
+C:\Users\huanghe002\source\repos\银行系统\银行系统\bin\Debug\net6.0-windows\银行系统.dll
+C:\Users\huanghe002\source\repos\银行系统\银行系统\bin\Debug\net6.0-windows\银行系统.pdb
+C:\Users\huanghe002\source\repos\银行系统\银行系统\obj\Debug\net6.0-windows\银行系统.bankfirst.resources
+C:\Users\huanghe002\source\repos\银行系统\银行系统\obj\Debug\net6.0-windows\银行系统.dll
+C:\Users\huanghe002\source\repos\银行系统\银行系统\obj\Debug\net6.0-windows\refint\银行系统.dll
+C:\Users\huanghe002\source\repos\银行系统\银行系统\obj\Debug\net6.0-windows\银行系统.pdb
+C:\Users\huanghe002\source\repos\银行系统\银行系统\obj\Debug\net6.0-windows\银行系统.genruntimeconfig.cache
+C:\Users\huanghe002\source\repos\银行系统\银行系统\obj\Debug\net6.0-windows\ref\银行系统.dll
+C:\Users\huanghe002\source\repos\银行系统\银行系统\obj\Debug\net6.0-windows\银行系统.BankMain.resources
+C:\Users\huanghe002\source\repos\银行系统\银行系统\obj\Debug\net6.0-windows\银行系统.bankTransaction.resources
+C:\Users\huanghe002\source\repos\银行系统\银行系统\obj\Debug\net6.0-windows\银行系统.ChangedPassord.resources
+C:\Users\huanghe002\source\repos\银行系统\银行系统\obj\Debug\net6.0-windows\银行系统.Query.resources
+C:\Users\huanghe002\source\repos\银行系统\银行系统\obj\Debug\net6.0-windows\银行系统.Transter.resources
+D:\visual stido\银行系统\银行系统\bin\Debug\net6.0-windows\银行系统.exe
+D:\visual stido\银行系统\银行系统\bin\Debug\net6.0-windows\银行系统.deps.json
+D:\visual stido\银行系统\银行系统\bin\Debug\net6.0-windows\银行系统.runtimeconfig.json
+D:\visual stido\银行系统\银行系统\bin\Debug\net6.0-windows\银行系统.dll
+D:\visual stido\银行系统\银行系统\bin\Debug\net6.0-windows\银行系统.pdb
+D:\visual stido\银行系统\银行系统\obj\Debug\net6.0-windows\银行系统.csproj.AssemblyReference.cache
+D:\visual stido\银行系统\银行系统\obj\Debug\net6.0-windows\银行系统.bankfirst.resources
+D:\visual stido\银行系统\银行系统\obj\Debug\net6.0-windows\银行系统.BankMain.resources
+D:\visual stido\银行系统\银行系统\obj\Debug\net6.0-windows\银行系统.bankTransaction.resources
+D:\visual stido\银行系统\银行系统\obj\Debug\net6.0-windows\银行系统.ChangedPassord.resources
+D:\visual stido\银行系统\银行系统\obj\Debug\net6.0-windows\银行系统.main1.resources
+D:\visual stido\银行系统\银行系统\obj\Debug\net6.0-windows\银行系统.Properties.Resources.resources
+D:\visual stido\银行系统\银行系统\obj\Debug\net6.0-windows\银行系统.Query.resources
+D:\visual stido\银行系统\银行系统\obj\Debug\net6.0-windows\银行系统.Transter.resources
+D:\visual stido\银行系统\银行系统\obj\Debug\net6.0-windows\银行系统.csproj.GenerateResource.cache
+D:\visual stido\银行系统\银行系统\obj\Debug\net6.0-windows\银行系统.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual stido\银行系统\银行系统\obj\Debug\net6.0-windows\银行系统.AssemblyInfoInputs.cache
+D:\visual stido\银行系统\银行系统\obj\Debug\net6.0-windows\银行系统.AssemblyInfo.cs
+D:\visual stido\银行系统\银行系统\obj\Debug\net6.0-windows\银行系统.csproj.CoreCompileInputs.cache
+D:\visual stido\银行系统\银行系统\obj\Debug\net6.0-windows\银行系统.dll
+D:\visual stido\银行系统\银行系统\obj\Debug\net6.0-windows\refint\银行系统.dll
+D:\visual stido\银行系统\银行系统\obj\Debug\net6.0-windows\银行系统.pdb
+D:\visual stido\银行系统\银行系统\obj\Debug\net6.0-windows\银行系统.genruntimeconfig.cache
+D:\visual stido\银行系统\银行系统\obj\Debug\net6.0-windows\ref\银行系统.dll
+D:\visual stido\银行系统\银行系统\obj\Debug\net6.0-windows\银行系统.BankDeposit.resources
+D:\visual stido\银行系统(自创升级版)\银行系统\obj\Debug\net6.0-windows\银行系统.csproj.AssemblyReference.cache
+D:\visual stido\银行系统(自创升级版)\银行系统\obj\Debug\net6.0-windows\银行系统.BankDeposit.resources
+D:\visual stido\银行系统(自创升级版)\银行系统\obj\Debug\net6.0-windows\银行系统.bankfirst.resources
+D:\visual stido\银行系统(自创升级版)\银行系统\obj\Debug\net6.0-windows\银行系统.BankMain.resources
+D:\visual stido\银行系统(自创升级版)\银行系统\obj\Debug\net6.0-windows\银行系统.bankTransaction.resources
+D:\visual stido\银行系统(自创升级版)\银行系统\obj\Debug\net6.0-windows\银行系统.ChangedPassord.resources
+D:\visual stido\银行系统(自创升级版)\银行系统\obj\Debug\net6.0-windows\银行系统.main1.resources
+D:\visual stido\银行系统(自创升级版)\银行系统\obj\Debug\net6.0-windows\银行系统.Properties.Resources.resources
+D:\visual stido\银行系统(自创升级版)\银行系统\obj\Debug\net6.0-windows\银行系统.csproj.GenerateResource.cache
+D:\visual stido\银行系统(自创升级版)\银行系统\obj\Debug\net6.0-windows\银行系统.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual stido\银行系统(自创升级版)\银行系统\obj\Debug\net6.0-windows\银行系统.AssemblyInfoInputs.cache
+D:\visual stido\银行系统(自创升级版)\银行系统\obj\Debug\net6.0-windows\银行系统.AssemblyInfo.cs
+D:\visual stido\银行系统(自创升级版)\银行系统\obj\Debug\net6.0-windows\银行系统.csproj.CoreCompileInputs.cache
+D:\visual stido\银行系统(自创升级版)\银行系统\obj\Debug\net6.0-windows\银行系统.dll
+D:\visual stido\银行系统(自创升级版)\银行系统\obj\Debug\net6.0-windows\refint\银行系统.dll
+D:\visual stido\银行系统(自创升级版)\银行系统\obj\Debug\net6.0-windows\银行系统.pdb
+D:\visual stido\银行系统(自创升级版)\银行系统\bin\Debug\net6.0-windows\银行系统.exe
+D:\visual stido\银行系统(自创升级版)\银行系统\bin\Debug\net6.0-windows\银行系统.deps.json
+D:\visual stido\银行系统(自创升级版)\银行系统\bin\Debug\net6.0-windows\银行系统.runtimeconfig.json
+D:\visual stido\银行系统(自创升级版)\银行系统\bin\Debug\net6.0-windows\银行系统.dll
+D:\visual stido\银行系统(自创升级版)\银行系统\bin\Debug\net6.0-windows\银行系统.pdb
+D:\visual stido\银行系统(自创升级版)\银行系统\obj\Debug\net6.0-windows\银行系统.genruntimeconfig.cache
+D:\visual stido\银行系统(自创升级版)\银行系统\obj\Debug\net6.0-windows\ref\银行系统.dll
+D:\visual stido\银行系统(自创升级版)\银行系统\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\visual stido\银行系统(自创升级版)\银行系统\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\visual stido\银行系统(自创升级版)\银行系统\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\visual stido\银行系统(自创升级版)\银行系统\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\visual stido\银行系统(自创升级版)\银行系统\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\visual stido\银行系统(自创升级版)\银行系统\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\visual stido\银行系统(自创升级版)\银行系统\obj\Debug\net6.0-windows\银行系统.csproj.CopyComplete
+D:\visual stido\银行系统(自创升级版)\银行系统\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+D:\visual stido\银行系统(自创升级版)\银行系统\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+D:\visual stido\银行系统(自创升级版)\银行系统\bin\Debug\net6.0-windows\System.Data.OleDb.dll
+D:\visual stido\银行系统(自创升级版)\银行系统\bin\Debug\net6.0-windows\System.Diagnostics.PerformanceCounter.dll
+D:\visual stido\银行系统(自创升级版)\银行系统\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+D:\visual stido\银行系统(自创升级版)\银行系统\bin\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+D:\visual stido\银行系统(自创升级版)\银行系统\bin\Debug\net6.0-windows\System.Security.Permissions.dll
+D:\visual stido\银行系统(自创升级版)\银行系统\bin\Debug\net6.0-windows\System.Windows.Extensions.dll
+D:\visual stido\银行系统(自创升级版)\银行系统\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\visual stido\银行系统(自创升级版)\银行系统\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+D:\visual stido\银行系统(自创升级版)\银行系统\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+D:\visual stido\银行系统(自创升级版)\银行系统\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\visual stido\银行系统(自创升级版)\银行系统\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\visual stido\银行系统(自创升级版)\银行系统\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\visual stido\银行系统(自创升级版)\银行系统\obj\Debug\net6.0-windows\银行系统.bankTranster.resources
+D:\visual stido\银行系统(自创升级版)\银行系统\obj\Debug\net6.0-windows\银行系统.ZZZadapt.resources
+D:\visual stido\银行系统(自创升级版)\银行系统\obj\Debug\net6.0-windows\银行系统.ZZZadd.resources
+D:\visual stido\银行系统(自创升级版)\银行系统\obj\Debug\net6.0-windows\银行系统.ZZZManage.resources
+D:\电气223黄河2202010308\银行系统(自创升级版)\银行系统\bin\Debug\net6.0-windows\银行系统.exe
+D:\电气223黄河2202010308\银行系统(自创升级版)\银行系统\bin\Debug\net6.0-windows\银行系统.deps.json
+D:\电气223黄河2202010308\银行系统(自创升级版)\银行系统\bin\Debug\net6.0-windows\银行系统.runtimeconfig.json
+D:\电气223黄河2202010308\银行系统(自创升级版)\银行系统\bin\Debug\net6.0-windows\银行系统.dll
+D:\电气223黄河2202010308\银行系统(自创升级版)\银行系统\bin\Debug\net6.0-windows\银行系统.pdb
+D:\电气223黄河2202010308\银行系统(自创升级版)\银行系统\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+D:\电气223黄河2202010308\银行系统(自创升级版)\银行系统\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+D:\电气223黄河2202010308\银行系统(自创升级版)\银行系统\bin\Debug\net6.0-windows\System.Data.OleDb.dll
+D:\电气223黄河2202010308\银行系统(自创升级版)\银行系统\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\电气223黄河2202010308\银行系统(自创升级版)\银行系统\bin\Debug\net6.0-windows\System.Diagnostics.PerformanceCounter.dll
+D:\电气223黄河2202010308\银行系统(自创升级版)\银行系统\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+D:\电气223黄河2202010308\银行系统(自创升级版)\银行系统\bin\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+D:\电气223黄河2202010308\银行系统(自创升级版)\银行系统\bin\Debug\net6.0-windows\System.Security.Permissions.dll
+D:\电气223黄河2202010308\银行系统(自创升级版)\银行系统\bin\Debug\net6.0-windows\System.Windows.Extensions.dll
+D:\电气223黄河2202010308\银行系统(自创升级版)\银行系统\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\电气223黄河2202010308\银行系统(自创升级版)\银行系统\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\电气223黄河2202010308\银行系统(自创升级版)\银行系统\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\电气223黄河2202010308\银行系统(自创升级版)\银行系统\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\电气223黄河2202010308\银行系统(自创升级版)\银行系统\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+D:\电气223黄河2202010308\银行系统(自创升级版)\银行系统\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\电气223黄河2202010308\银行系统(自创升级版)\银行系统\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\电气223黄河2202010308\银行系统(自创升级版)\银行系统\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+D:\电气223黄河2202010308\银行系统(自创升级版)\银行系统\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\电气223黄河2202010308\银行系统(自创升级版)\银行系统\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\电气223黄河2202010308\银行系统(自创升级版)\银行系统\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\电气223黄河2202010308\银行系统(自创升级版)\银行系统\obj\Debug\net6.0-windows\银行系统.csproj.AssemblyReference.cache
+D:\电气223黄河2202010308\银行系统(自创升级版)\银行系统\obj\Debug\net6.0-windows\银行系统.BankDeposit.resources
+D:\电气223黄河2202010308\银行系统(自创升级版)\银行系统\obj\Debug\net6.0-windows\银行系统.bankfirst.resources
+D:\电气223黄河2202010308\银行系统(自创升级版)\银行系统\obj\Debug\net6.0-windows\银行系统.BankMain.resources
+D:\电气223黄河2202010308\银行系统(自创升级版)\银行系统\obj\Debug\net6.0-windows\银行系统.bankTransaction.resources
+D:\电气223黄河2202010308\银行系统(自创升级版)\银行系统\obj\Debug\net6.0-windows\银行系统.bankTranster.resources
+D:\电气223黄河2202010308\银行系统(自创升级版)\银行系统\obj\Debug\net6.0-windows\银行系统.ChangedPassord.resources
+D:\电气223黄河2202010308\银行系统(自创升级版)\银行系统\obj\Debug\net6.0-windows\银行系统.main1.resources
+D:\电气223黄河2202010308\银行系统(自创升级版)\银行系统\obj\Debug\net6.0-windows\银行系统.Properties.Resources.resources
+D:\电气223黄河2202010308\银行系统(自创升级版)\银行系统\obj\Debug\net6.0-windows\银行系统.ZZZadapt.resources
+D:\电气223黄河2202010308\银行系统(自创升级版)\银行系统\obj\Debug\net6.0-windows\银行系统.ZZZadd.resources
+D:\电气223黄河2202010308\银行系统(自创升级版)\银行系统\obj\Debug\net6.0-windows\银行系统.ZZZManage.resources
+D:\电气223黄河2202010308\银行系统(自创升级版)\银行系统\obj\Debug\net6.0-windows\银行系统.csproj.GenerateResource.cache
+D:\电气223黄河2202010308\银行系统(自创升级版)\银行系统\obj\Debug\net6.0-windows\银行系统.GeneratedMSBuildEditorConfig.editorconfig
+D:\电气223黄河2202010308\银行系统(自创升级版)\银行系统\obj\Debug\net6.0-windows\银行系统.AssemblyInfoInputs.cache
+D:\电气223黄河2202010308\银行系统(自创升级版)\银行系统\obj\Debug\net6.0-windows\银行系统.AssemblyInfo.cs
+D:\电气223黄河2202010308\银行系统(自创升级版)\银行系统\obj\Debug\net6.0-windows\银行系统.csproj.CoreCompileInputs.cache
+D:\电气223黄河2202010308\银行系统(自创升级版)\银行系统\obj\Debug\net6.0-windows\银行系统.csproj.CopyComplete
+D:\电气223黄河2202010308\银行系统(自创升级版)\银行系统\obj\Debug\net6.0-windows\银行系统.dll
+D:\电气223黄河2202010308\银行系统(自创升级版)\银行系统\obj\Debug\net6.0-windows\refint\银行系统.dll
+D:\电气223黄河2202010308\银行系统(自创升级版)\银行系统\obj\Debug\net6.0-windows\银行系统.pdb
+D:\电气223黄河2202010308\银行系统(自创升级版)\银行系统\obj\Debug\net6.0-windows\银行系统.genruntimeconfig.cache
+D:\电气223黄河2202010308\银行系统(自创升级版)\银行系统\obj\Debug\net6.0-windows\ref\银行系统.dll
+D:\电气223黄河2202010308 银行系统\银行系统(自创升级版)\银行系统\bin\Debug\net6.0-windows\银行系统.exe
+D:\电气223黄河2202010308 银行系统\银行系统(自创升级版)\银行系统\bin\Debug\net6.0-windows\银行系统.deps.json
+D:\电气223黄河2202010308 银行系统\银行系统(自创升级版)\银行系统\bin\Debug\net6.0-windows\银行系统.runtimeconfig.json
+D:\电气223黄河2202010308 银行系统\银行系统(自创升级版)\银行系统\bin\Debug\net6.0-windows\银行系统.dll
+D:\电气223黄河2202010308 银行系统\银行系统(自创升级版)\银行系统\bin\Debug\net6.0-windows\银行系统.pdb
+D:\电气223黄河2202010308 银行系统\银行系统(自创升级版)\银行系统\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+D:\电气223黄河2202010308 银行系统\银行系统(自创升级版)\银行系统\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+D:\电气223黄河2202010308 银行系统\银行系统(自创升级版)\银行系统\bin\Debug\net6.0-windows\System.Data.OleDb.dll
+D:\电气223黄河2202010308 银行系统\银行系统(自创升级版)\银行系统\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\电气223黄河2202010308 银行系统\银行系统(自创升级版)\银行系统\bin\Debug\net6.0-windows\System.Diagnostics.PerformanceCounter.dll
+D:\电气223黄河2202010308 银行系统\银行系统(自创升级版)\银行系统\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+D:\电气223黄河2202010308 银行系统\银行系统(自创升级版)\银行系统\bin\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+D:\电气223黄河2202010308 银行系统\银行系统(自创升级版)\银行系统\bin\Debug\net6.0-windows\System.Security.Permissions.dll
+D:\电气223黄河2202010308 银行系统\银行系统(自创升级版)\银行系统\bin\Debug\net6.0-windows\System.Windows.Extensions.dll
+D:\电气223黄河2202010308 银行系统\银行系统(自创升级版)\银行系统\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\电气223黄河2202010308 银行系统\银行系统(自创升级版)\银行系统\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\电气223黄河2202010308 银行系统\银行系统(自创升级版)\银行系统\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\电气223黄河2202010308 银行系统\银行系统(自创升级版)\银行系统\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\电气223黄河2202010308 银行系统\银行系统(自创升级版)\银行系统\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+D:\电气223黄河2202010308 银行系统\银行系统(自创升级版)\银行系统\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\电气223黄河2202010308 银行系统\银行系统(自创升级版)\银行系统\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\电气223黄河2202010308 银行系统\银行系统(自创升级版)\银行系统\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+D:\电气223黄河2202010308 银行系统\银行系统(自创升级版)\银行系统\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\电气223黄河2202010308 银行系统\银行系统(自创升级版)\银行系统\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\电气223黄河2202010308 银行系统\银行系统(自创升级版)\银行系统\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\电气223黄河2202010308 银行系统\银行系统(自创升级版)\银行系统\obj\Debug\net6.0-windows\银行系统.csproj.AssemblyReference.cache
+D:\电气223黄河2202010308 银行系统\银行系统(自创升级版)\银行系统\obj\Debug\net6.0-windows\银行系统.BankDeposit.resources
+D:\电气223黄河2202010308 银行系统\银行系统(自创升级版)\银行系统\obj\Debug\net6.0-windows\银行系统.bankfirst.resources
+D:\电气223黄河2202010308 银行系统\银行系统(自创升级版)\银行系统\obj\Debug\net6.0-windows\银行系统.BankMain.resources
+D:\电气223黄河2202010308 银行系统\银行系统(自创升级版)\银行系统\obj\Debug\net6.0-windows\银行系统.bankTransaction.resources
+D:\电气223黄河2202010308 银行系统\银行系统(自创升级版)\银行系统\obj\Debug\net6.0-windows\银行系统.bankTranster.resources
+D:\电气223黄河2202010308 银行系统\银行系统(自创升级版)\银行系统\obj\Debug\net6.0-windows\银行系统.ChangedPassord.resources
+D:\电气223黄河2202010308 银行系统\银行系统(自创升级版)\银行系统\obj\Debug\net6.0-windows\银行系统.main1.resources
+D:\电气223黄河2202010308 银行系统\银行系统(自创升级版)\银行系统\obj\Debug\net6.0-windows\银行系统.Properties.Resources.resources
+D:\电气223黄河2202010308 银行系统\银行系统(自创升级版)\银行系统\obj\Debug\net6.0-windows\银行系统.ZZZadapt.resources
+D:\电气223黄河2202010308 银行系统\银行系统(自创升级版)\银行系统\obj\Debug\net6.0-windows\银行系统.ZZZadd.resources
+D:\电气223黄河2202010308 银行系统\银行系统(自创升级版)\银行系统\obj\Debug\net6.0-windows\银行系统.ZZZManage.resources
+D:\电气223黄河2202010308 银行系统\银行系统(自创升级版)\银行系统\obj\Debug\net6.0-windows\银行系统.csproj.GenerateResource.cache
+D:\电气223黄河2202010308 银行系统\银行系统(自创升级版)\银行系统\obj\Debug\net6.0-windows\银行系统.GeneratedMSBuildEditorConfig.editorconfig
+D:\电气223黄河2202010308 银行系统\银行系统(自创升级版)\银行系统\obj\Debug\net6.0-windows\银行系统.AssemblyInfoInputs.cache
+D:\电气223黄河2202010308 银行系统\银行系统(自创升级版)\银行系统\obj\Debug\net6.0-windows\银行系统.AssemblyInfo.cs
+D:\电气223黄河2202010308 银行系统\银行系统(自创升级版)\银行系统\obj\Debug\net6.0-windows\银行系统.csproj.CoreCompileInputs.cache
+D:\电气223黄河2202010308 银行系统\银行系统(自创升级版)\银行系统\obj\Debug\net6.0-windows\银行系统.csproj.CopyComplete
+D:\电气223黄河2202010308 银行系统\银行系统(自创升级版)\银行系统\obj\Debug\net6.0-windows\银行系统.dll
+D:\电气223黄河2202010308 银行系统\银行系统(自创升级版)\银行系统\obj\Debug\net6.0-windows\refint\银行系统.dll
+D:\电气223黄河2202010308 银行系统\银行系统(自创升级版)\银行系统\obj\Debug\net6.0-windows\银行系统.pdb
+D:\电气223黄河2202010308 银行系统\银行系统(自创升级版)\银行系统\obj\Debug\net6.0-windows\银行系统.genruntimeconfig.cache
+D:\电气223黄河2202010308 银行系统\银行系统(自创升级版)\银行系统\obj\Debug\net6.0-windows\ref\银行系统.dll
